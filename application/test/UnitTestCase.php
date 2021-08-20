@@ -2,4 +2,4 @@
 
 class UnitTestCase extends CIPHPUnitTestUnitTestCase
 {
-}
+
